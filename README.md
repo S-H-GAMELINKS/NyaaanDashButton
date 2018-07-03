@@ -2,6 +2,9 @@
 ## 概要
 AmazonDashボタンでMastodonへ「にゃーん」って呟くもの
 
+記事
+[AmazonDashボタンを使ってMastodonへにゃーんって呟いてみる](http://gamelinks007.hatenablog.com/entry/2018/07/03/225223)
+
 ## 使い方
 
 まず、clone
